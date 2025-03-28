@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-
+PlagiarismDetector = "0x3fd8f9f0614086763f33c0506c46c4f064b37d9181acacb012721c926cdc3523"
 [dev-addresses]
 
 [dependencies.AptosFramework]
@@ -13,3 +13,4 @@ rev = "mainnet"
 subdir = "aptos-framework"
 
 [dev-dependencies]
+
