@@ -21,4 +21,6 @@ Integration with institutions: Universities and publishers can use this system f
 Reward system: Incentivizing plagiarism reporting using blockchain-based rewards.
 
 Contract Details
-Contract Address: [Insert Contract Address Here]
+Contract Address: 0x3fd8f9f0614086763f33c0506c46c4f064b37d9181acacb012721c926cdc3523
+<img width="936" alt="image" src="https://github.com/user-attachments/assets/8318df64-5562-48dd-9e60-2397eb0aabc0" />
+
